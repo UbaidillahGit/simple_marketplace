@@ -2,6 +2,9 @@
 
 Simple Market Place
 
+## Project guide
+https://medium.com/@ubaidillah.dev/flutter-simple-marketplace-riverpod-hive-a36fe117c2f6
+
 ## State Management
 
 Riverpod
